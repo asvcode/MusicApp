@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musically Organized</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="song">Song</string>
+    <string name="genres">Genres</string>
+    <string name="dj_playlist">DJ Playlist</string>
+    <string name="dj_artist">DJ Artist</string>
+    <string name="dj_experiment">DJ Experiment</string>
+</resources>

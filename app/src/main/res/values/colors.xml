@@ -1,0 +1,33 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the artist category -->
+    <color name="category_artist">#E1BEE7</color>
+
+    <!-- Background color for the album category -->
+    <color name="category_album">#CE93D8</color>
+
+    <!-- Background color for the song category -->
+    <color name="category_song">#BA68C8</color>
+
+    <!-- Background color for the genres category -->
+    <color name="category_genres">#AB47BC</color>
+
+    <!-- Background color for the dj playlist category -->
+    <color name="category_dj_playlist">#9C27B0</color>
+
+    <!-- Background color for the dj artist category -->
+    <color name="category_dj_artist">#8E24AA</color>
+
+    <!-- Background color for the dj experiment category -->
+    <color name="category_dj_experiment">#D32F2F</color>
+
+
+</resources>
